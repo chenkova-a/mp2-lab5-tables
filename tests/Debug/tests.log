@@ -1,0 +1,8 @@
+﻿  test_main.cpp
+  Test-USTable.cpp
+c:\temp11\mp2-lab5-tables\tables\tests\test-ustable.cpp(27): warning C4101: pol: неиспользованная локальная переменная
+  Test-STable.cpp
+  Test-Polynoms.cpp
+  Test-HTable.cpp
+  Создание кода...
+  tests.vcxproj -> C:\temp11\mp2-lab5-tables\Tables\Debug\tests.exe
